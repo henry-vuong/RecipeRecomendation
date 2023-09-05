@@ -222,4 +222,4 @@ dependencies:
       - praw==7.7.0
       - prawcore==2.3.0
       - update-checker==0.18.0
-prefix: C:\Users\ajgag\anaconda3\envs\capstone2
+
