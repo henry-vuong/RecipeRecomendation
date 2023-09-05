@@ -1,4 +1,4 @@
-# packages in environment at C:\Users\ajgag\anaconda3\envs\capstone2:
+
 #
 # Name                    Version                   Build  Channel
 anyio                     3.7.0              pyhd8ed1ab_1    conda-forge
